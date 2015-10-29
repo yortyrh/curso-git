@@ -1,2 +1,2 @@
-# curso-git
-Git Flow - YR
+# Git Flow - SMX
+
